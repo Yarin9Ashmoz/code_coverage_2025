@@ -12,9 +12,4 @@ public class Func1 {
         return res;
     }// end of func1
 
-
-
-
-
-
 }//end of class

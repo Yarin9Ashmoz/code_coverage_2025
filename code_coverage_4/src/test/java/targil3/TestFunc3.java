@@ -1,7 +1,5 @@
 package targil3;
-
 import org.junit.Test;
-
 import static org.junit.Assert.assertThrows;
 
 public class TestFunc3 {
@@ -24,7 +22,6 @@ public class TestFunc3 {
             Func3.func3(0);
         });
     }
-
 
     @Test
     public void testFunc3_Condition() {

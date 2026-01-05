@@ -1,5 +1,4 @@
 package targil3;
-
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertThrows;
@@ -35,4 +34,5 @@ public class TestFunc2 {
             Func2.func2(0, 5);
         });
     }
-}
+
+}//end of class

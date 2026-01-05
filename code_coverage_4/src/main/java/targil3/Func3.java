@@ -13,5 +13,4 @@ public class Func3 {
         return String.format("result=%d", result);
     }// end of func3
 
-
-}
+}//end of class

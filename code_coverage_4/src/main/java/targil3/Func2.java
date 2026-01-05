@@ -14,4 +14,4 @@ public class Func2 {
         return String.format("p=%d, q=%d", p, q);
     }// end of func2
 
-}
+}//end of class
